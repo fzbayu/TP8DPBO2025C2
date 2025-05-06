@@ -89,6 +89,8 @@ Ketika menambah mahasiswa dengan klik add new, maka:
 Begitu pula untuk dosen dan peminatan, di page tersebut sudah sekaligus tersedia untuk melihat data, menambah, mengedit ataupun mendelete data.
 
 ## DOKUMENTASI
+https://github.com/user-attachments/assets/91809d0e-9cea-4d9b-8513-395f447bec49
+
 
 
 
